@@ -1,67 +1,7 @@
 ## Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Shravan Kumar | Java Full Stack Developer</title>
-
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f4f6f8;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            max-width: 900px;
-            margin: auto;
-            background: #ffffff;
-            padding: 30px;
-            margin-top: 40px;
-            border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #2c3e50;
-            margin-bottom: 5px;
-        }
-
-        h2 {
-            color: #34495e;
-            border-bottom: 2px solid #e0e0e0;
-            padding-bottom: 5px;
-        }
-
-        p {
-            color: #555;
-            line-height: 1.6;
-        }
-
-        ul {
-            color: #555;
-        }
-
-        .highlight {
-            color: #1abc9c;
-            font-weight: bold;
-        }
-
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            color: #888;
-            font-size: 14px;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="container">
 
         <h1>👋 Hi, I'm Shravan Kumar</h1>
         <p>
@@ -106,11 +46,6 @@
             <li>LinkedIn: https://linkedin.com/in/yourprofile</li>
         </ul>
 
-        <div class="footer">
+        
             ⭐ Thank you for visiting my profile!
-        </div>
 
-    </div>
-
-</body>
-</html>
