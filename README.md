@@ -54,7 +54,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shravan Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shravan Kumar</h1>
 
 <h3 align="center">
 Java Full Stack Developer | Spring Boot | Spring MVC | Hibernate | React | MySQL | AI Enthusiast
@@ -392,4 +392,81 @@ Features
 
 <h2 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</h2>
+</h2> -->
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Shravan Kumar</h1>
+
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | Spring MVC | Hibernate | MySQL
+</h3>
+
+- 🎓 Computer Science & Engineering Graduate
+- 💻 Passionate about Java Full Stack Development
+- 🌱 Currently learning Spring Security, REST APIs, Microservices, Docker & AWS
+- 🚀 Open to Software Engineer and Java Full Stack Developer opportunities
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shravan-kumar-7926a9216/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+<img src="https://www.thymeleaf.org/images/thymeleaf.png" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛒 ClickNBuy - Spring Boot E-Commerce Application
+- 👨‍💼 Employee Management System
+- 📚 Spring Boot CRUD Application
+- 🌐 Spring MVC Demo
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shra-1kumar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shra-1kumar&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shra-1kumar&theme=tokyonight"/>
+</p>
